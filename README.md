@@ -7,8 +7,8 @@
 
 [玩AndroidTool](http://www.wanandroid.com/tools) 玩AndroidTool
 
-[MvnJar](http://www.mvnjar.com/)  jar包搜素引擎
+[MvnJar](http://www.mvnjar.com/) Maven jar包搜素引擎
 
-[mvnrepository](http://mvnrepository.com/)  jar包搜素引擎
+[mvnrepository](http://mvnrepository.com/) Maven jar包搜素引擎
 
 
