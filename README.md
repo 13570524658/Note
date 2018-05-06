@@ -17,6 +17,6 @@
 
 [MvnRepository](http://mvnrepository.com/) jar包搜素引擎
 
-[百度云盘资源搜索引擎](http://mvnrepository.com/) 大数据搜索百度云盘资源
+[百度云盘资源搜索引擎](http://wx.aizhaomu.com/) 大数据搜索百度云盘资源
 
 
