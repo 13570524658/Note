@@ -1,5 +1,4 @@
 # Net
-技术网站
 
 [玩Adnroid](http://www.wanandroid.com/navi) Adnroid导航网站
 
@@ -22,6 +21,5 @@
 [codeKK](http://p.codekk.com/) Android开源搜素引擎
 
 [xiandan](http://bt.xiandan.in/) 磁力链接聚合搜索引擎
-
 
 [fabiaoqing](https://fabiaoqing.com/) 制作表情
