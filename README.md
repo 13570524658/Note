@@ -49,7 +49,7 @@ http://wx.aizhaomu.com
 
 ##### codeKK
   
-    开源项目搜素 
+    Android开源项目搜素 
   
 http://p.codekk.com
 
@@ -67,6 +67,6 @@ https://fabiaoqing.com
 
 ##### android arsenal
 
-    开源项目
+    Android开源项目
 
-https://android-arsenal.com/
+https://android-arsenal.com
