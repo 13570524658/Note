@@ -67,6 +67,6 @@ https://fabiaoqing.com
 
 ##### android arsenal
 
-    Android开源项目
+    Android开源项目
 
 https://android-arsenal.com
