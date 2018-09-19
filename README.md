@@ -1,19 +1,16 @@
 # Net
-##### 玩Android 
-
-    玩Android导航
+##### 玩Android
+  一个安卓开发的导航
 
 http://www.wanandroid.com/navi
-
-##### 玩Android 
      
-    玩Android工具
+ 一个安卓开发的工具
 
 http://www.wanandroid.com/tools
 
 ##### 极客
 
-    程序员自己的导航
+    程序员的导航
 
 http://www.jikedaohang.com
 
