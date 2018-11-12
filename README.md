@@ -52,22 +52,4 @@ http://p.codekk.com
 
 https://android-arsenal.com
 
-##### aizhaomu
 
-    百度网盘搜素
-
-http://wx.aizhaomu.com
-
-
-##### xiandan
-
-    种子搜素
-
-http://bt.xiandan.in
-
-
-##### fabiaoqing
-
-    制作表情
-
-https://fabiaoqing.com
