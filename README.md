@@ -65,12 +65,6 @@ http://wx.aizhaomu.com
 
 http://bt.xiandan.in
 
-##### Telegram 
-
-    国外电报
-    
-http://telegram.org/
-
 
 ##### fabiaoqing
 
