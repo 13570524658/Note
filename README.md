@@ -39,11 +39,6 @@ http://www.mvnjar.com
      
 http://mvnrepository.com
 
-##### aizhaomu
-
-    百度网盘搜素
-
-http://wx.aizhaomu.com
 
 ##### codeKK
   
@@ -51,20 +46,35 @@ http://wx.aizhaomu.com
   
 http://p.codekk.com
 
-##### xiandan
-
-    种子搜素
-
-http://bt.xiandan.in
-
-##### fabiaoqing
-
-    制作表情
-
-https://fabiaoqing.com
 
 ##### android arsenal
 
     Android开源项目
 
 https://android-arsenal.com
+
+##### aizhaomu
+
+    百度网盘搜素
+
+http://wx.aizhaomu.com
+
+
+##### xiandan
+
+    种子搜素
+
+http://bt.xiandan.in
+
+##### Telegram 
+
+    国外电报
+    
+http://telegram.org/
+
+
+##### fabiaoqing
+
+    制作表情
+
+https://fabiaoqing.com
